@@ -1,1 +1,1 @@
-Sitemap: https://burghardtlab2026.github.io/burghardt_lab_website/sitemap.xml
+Sitemap: https://burghardtlab2026.github.io/burghardt-lab.github.io/sitemap.xml
