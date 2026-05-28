@@ -5,6 +5,6 @@
 
   # burghardtlab2026's Website
 
-  Visit **[burghardtlab2026.github.io/burghardt-lab](https://burghardtlab2026.github.io/burghardt-lab)** 🚀
+  Visit **[burghardtlab2026.github.io/burghardt-lab.github.io](https://burghardtlab2026.github.io/burghardt-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
