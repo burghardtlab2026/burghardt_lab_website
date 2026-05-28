@@ -1,19 +1,16 @@
 # site properties and page defaults
-title: burghardtlab2026
+title: Burghardt Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Our lab is interested in understanding abnormalities in the neural circuits that underlie different psychiatric disorders, such as anxiety, depression, and anorexia nervosa. We use behavioral neuroscience to model features of these disorders in rodents and modern molecular tools to identify changes in relevant brain regions. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@burghardtlab2026.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: burghardtlab2026
-  twitter: burghardtlab2026
-  youtube: burghardtlab2026
+  email: nb844@hunter.cuny.edu
+  orcid: 0000-0002-5415-1141
+  google-scholar: JstLyUkAAAAJ
 
 ### jekyll settings
 
