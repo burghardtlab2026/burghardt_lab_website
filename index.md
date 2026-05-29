@@ -3,7 +3,7 @@
 
 # burghardtlab2026's Website
 
-An engaging 1-3 sentence description of your lab.
+Our lab is interested in understanding abnormalities in the neural circuits that underlie different psychiatric disorders, such as anxiety, depression, and anorexia nervosa. We use behavioral neuroscience to model features of these disorders in rodents and modern molecular tools to identify changes in relevant brain regions. 
 
 {% include section.html %}
 
