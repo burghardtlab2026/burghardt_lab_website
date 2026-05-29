@@ -1,21 +1,26 @@
 ---
-title: Blog
+title: Join us!
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Join our team
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-user-plus" %}Join our team:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team is still growing. We are generously funding by ______
 
-{% include section.html %}
+# PhD Students:
 
-{% include search-box.html %}
+For informal inquiries, please email us with your CV, explaining your academic background and research interests.
 
-{% include tags.html tags=site.tags %}
+Our lab is recruiting through [CUNY Graduate Center's Neuroscience PhD program](https://www.gc.cuny.edu/neuroscience)
 
-{% include search-info.html %}
+# Research Assistants:
 
-{% include list.html data="posts" component="post-excerpt" %}
+Please email us with your interests and CV. 
+
+{% capture content %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
