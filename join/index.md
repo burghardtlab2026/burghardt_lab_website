@@ -8,7 +8,7 @@ nav:
 
 Insert 1-2 sentences about our lab. Ex:
 
-We seek to build a multidisciplinary and diverse team of scientists and engineers. Nesha is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
+We seek to build a multidisciplinary and diverse team of scientists. Nesha is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
 
 ## Doctoral Students:
 
