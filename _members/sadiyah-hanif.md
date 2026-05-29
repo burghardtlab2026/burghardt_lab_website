@@ -1,10 +1,11 @@
 ---
-name: John Doe
+name: Sadiyah Hanif
 image: images/photo.jpg
-role: phd
-group: alum
+role: lab-manager
 links:
-  github: john-doe
+  email: 
+  linkedin:
+  google-scholar:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
