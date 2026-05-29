@@ -1,8 +1,8 @@
 ---
 name: Sadiyah Hanif
 image: images/photo.jpg
-role: programmer
 description: Lab Manager
+role: programmer
 links:
   email: 
   linkedin:
