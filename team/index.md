@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 2
+  order: 3
 ---
 
 ## {% include icon.html icon="fa-solid fa-users" %}Current Members
