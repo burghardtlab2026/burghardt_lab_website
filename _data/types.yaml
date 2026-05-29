@@ -19,8 +19,8 @@ undergrad:
   description: Undergraduate Student
 
 lab-manager:
-  icon: fa-solid fa-code
-  description: Programmer
+  icon: fa-solid fa-screwdriver-wrench
+  description: Lab Manager
 
 alum:
   icon: fa-solid fa-hand-spock
