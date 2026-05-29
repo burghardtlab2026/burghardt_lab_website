@@ -36,8 +36,8 @@ Address: 68th Street Hunter North 626C
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Hunter college sky bridge.jpg"
+  caption="Hunter College"
 %}
 
 {% endcapture %}
@@ -46,8 +46,8 @@ Address: 68th Street Hunter North 626C
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Hunter north building.jpg"
+  caption="North Building"
 %}
 
 {% endcapture %}
