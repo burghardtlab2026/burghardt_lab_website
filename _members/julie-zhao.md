@@ -1,6 +1,6 @@
 ---
 name: Julie Zhao
-image: images/photo.jpg
+image: images/Julie headshot.jpeg
 description: PhD Student
 role: phd
 links:
