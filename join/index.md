@@ -13,7 +13,7 @@ Our team is still growing. We are generously funded by ______
 
 For informal inquiries, please email us with your CV, explaining your academic background and research interests.
 
-Our lab is recruiting through [CUNY Graduate Center's Neuroscience PhD program](https://www.gc.cuny.edu/neuroscience)
+Our lab is recruiting through [CUNY Graduate Center's Neuroscience PhD program](https://www.gc.cuny.edu/neuroscience).
 
 ## Research Assistants:
 
