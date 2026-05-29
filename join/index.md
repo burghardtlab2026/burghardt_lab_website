@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-user-plus" %}Join our team:
 
-Our team is still growing. We are generously funding by ______
+Our team is still growing. We are generously funded by ______
 
 # PhD Students:
 
