@@ -26,7 +26,7 @@ We are passionate about serotonin and fear learning, effects of chronic stress o
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="projects"
   title="Our Research"
   text=text
 %}
