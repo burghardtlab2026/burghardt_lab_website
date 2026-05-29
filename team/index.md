@@ -4,9 +4,11 @@ nav:
   order: 3
 ---
 
-## {% include icon.html icon="fa-solid fa-users" %}Current Members
+# {% include icon.html icon="fa-solid fa-people-group" %}Team
 
 {% include section.html %}
+
+## Current Members
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
